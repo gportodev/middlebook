@@ -5,7 +5,5 @@ It's preety basic for now, just a page showing characters comments of others pos
 
 Dependencies:
 
-- Webpack
-- Babel 
-- Webpack Dev Server
-- ReactJS.
+- react
+- react-dom
