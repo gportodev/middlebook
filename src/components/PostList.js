@@ -45,7 +45,7 @@ class PostList extends Component {
           },
           date: '29 Jul 1954',
           content:
-            'If Mr. Frodo goes, i will!',
+            'Wait for me Mr. Frodo!',
           },
           {
             id: 4,
